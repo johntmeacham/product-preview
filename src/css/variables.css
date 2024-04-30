@@ -1,0 +1,8 @@
+:root {
+  --dark-cyan-clr: hsl(158, 36%, 37%);
+  --cream-clr: hsl(30, 38%, 92%);
+  --very-dark-blue-clr: hsl(212, 21%, 14%);
+  --dark-grayish-blue-clr: hsl(228, 12%, 48%);
+  --white-clr: hsl(0, 0%, 100%);
+  --deep-aqua-marine-clr: #1a4032;
+}
